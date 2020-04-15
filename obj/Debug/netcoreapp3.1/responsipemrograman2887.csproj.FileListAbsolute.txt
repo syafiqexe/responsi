@@ -1,0 +1,11 @@
+D:\GH\tugas5\responsipemrograman2887\bin\Debug\netcoreapp3.1\responsipemrograman2887.exe
+D:\GH\tugas5\responsipemrograman2887\bin\Debug\netcoreapp3.1\responsipemrograman2887.deps.json
+D:\GH\tugas5\responsipemrograman2887\bin\Debug\netcoreapp3.1\responsipemrograman2887.runtimeconfig.json
+D:\GH\tugas5\responsipemrograman2887\bin\Debug\netcoreapp3.1\responsipemrograman2887.runtimeconfig.dev.json
+D:\GH\tugas5\responsipemrograman2887\bin\Debug\netcoreapp3.1\responsipemrograman2887.dll
+D:\GH\tugas5\responsipemrograman2887\bin\Debug\netcoreapp3.1\responsipemrograman2887.pdb
+D:\GH\tugas5\responsipemrograman2887\obj\Debug\netcoreapp3.1\responsipemrograman2887.csprojAssemblyReference.cache
+D:\GH\tugas5\responsipemrograman2887\obj\Debug\netcoreapp3.1\responsipemrograman2887.AssemblyInfoInputs.cache
+D:\GH\tugas5\responsipemrograman2887\obj\Debug\netcoreapp3.1\responsipemrograman2887.AssemblyInfo.cs
+D:\GH\tugas5\responsipemrograman2887\obj\Debug\netcoreapp3.1\responsipemrograman2887.dll
+D:\GH\tugas5\responsipemrograman2887\obj\Debug\netcoreapp3.1\responsipemrograman2887.pdb
